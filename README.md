@@ -1,10 +1,4 @@
-<<<<<<< Updated upstream
-### Hi there 👋
-This is a test
-=======
->>>>>>> Stashed changes
-
-### Hi there 👋 welcome to a basic plain GitHub page
+### Hi there 👋 welcome!
 
 
 🔭 I’m currently working on GNSS field, but always open to go beyond!
